@@ -24,7 +24,8 @@ This project analyzes Superstore 2009,2010,2011,2012 sales data to uncover busin
 - Charts
 - Dashboard
 - 
-  ## Dashboard Interaction <a href="https://github.com/nazmul23423/Data-Analysis-Excel-project-First-Project-/blob/main/Supershop%20data%20analysis%20dashboard.png">View Dashboard</a>
+  ## Dashboard Interaction
+- <a href="https://github.com/nazmul23423/Data-Analysis-Excel-project-First-Project-/blob/main/Supershop%20data%20analysis%20dashboard.png">View Dashboard</a>
 
 
   ## KPI's
